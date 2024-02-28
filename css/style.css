@@ -26,6 +26,8 @@ li {
 
 section {
     position: relative;
+    /* padding-top: 20px;
+    padding-bottom: 20px; */
 }
 
 p {
@@ -34,4 +36,24 @@ p {
 
 .header-item {
     color: #d5cec8; 
+}
+
+.box {
+    display: flex;
+    /* height: 600px;
+    width: 200px;
+    overflow: auto; */
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    object-position: top;
+    padding-top: 20px;
+    margin-right: 20px;
+    /* object-fit: contain; */
+
+    position: sticky;
+    top: 0;
+    /* top: 50%; */
 }
