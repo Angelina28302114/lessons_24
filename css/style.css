@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(149, 40, 40);
+    background-color: rgb(135 98 80);
 }
 
 li {
@@ -14,7 +14,7 @@ li {
 }
 
 .header {
-    background-color: rgb(196, 211, 255);
+    background-color: rgb(194 152 140);
     padding-top: 30px;
     padding-bottom: 25px;
 }
@@ -26,4 +26,12 @@ li {
 
 section {
     position: relative;
+}
+
+p {
+    color: #d5cec8;
+}
+
+.header-item {
+    color: #d5cec8; 
 }
