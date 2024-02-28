@@ -1,0 +1,29 @@
+.conteiner {
+    width: 1000px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(149, 40, 40);
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: rgb(196, 211, 255);
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.header-list {
+    display: flex;
+    gap: 30px;
+}
+
+section {
+    position: relative;
+}
