@@ -58,3 +58,8 @@ img {
     top: 0;
     /* top: 50%; */
 }
+
+.logo {
+    text-transform: uppercase;
+    color: rgb(209 181 177); 
+}
